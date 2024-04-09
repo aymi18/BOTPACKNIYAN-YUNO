@@ -2,7 +2,7 @@ const { Hercai } = require('hercai');
 const herc = new Hercai();
 
 module.exports.config = {
-  name: 'ai',
+  name: 'yuno',
   version: '1.1.0',
   hasPermssion: 0,
   credits: 'Yan Maglinte',
@@ -19,7 +19,7 @@ module.exports.run = async function ({ api, event, args }) {
   try {
     // Available Models: "v3", "v3-32k", "turbo", "turbo-16k", "gemini"
     if (!prompt) {
-      api.sendMessage('Please specify a message!', event.threadID, event.messageID);
+      api.sendMessage('Magtanong ka para masagot ko.', event.threadID, event.messageID);
       api.setMessageReaction('❓', event.messageID, () => {}, true);
     } else {
       api.setMessageReaction('⏱️', event.messageID, () => {}, true);
@@ -28,7 +28,7 @@ module.exports.run = async function ({ api, event, args }) {
       api.setMessageReaction('', event.messageID, () => {}, true);
     }
   } catch (error) {
-    api.sendMessage('⚠️ Something went wrong: ' + error, event.threadID, event.messageID);
+    api.sendMessage('Sorry d ko mahanap halaga mo: ' + may error, event.threadID, event.messageID);
     api.setMessageReaction('⚠️', event.messageID, () => {}, true);
   }
 };
