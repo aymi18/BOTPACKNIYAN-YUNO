@@ -1,0 +1,128 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261557624330011%22%3A%22Y858IeSZ%22%2C%2261557027245622%22%3A%22Ww7Kwj6X%22%2C%2261557541180245%22%3A%221KuYKol1%22%2C%2261557703980079%22%3A%22WnjcSNh9%22%2C%2261557395176708%22%3A%220Ed8NYTW%22%2C%2261557787332428%22%3A%22C6vxiGCa%22%2C%2261558177647932%22%3A%22OG3kM75b%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.627Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "sb",
+        "value": "hz_9ZeMuBbSdiT9ckgVcpdO2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "datr",
+        "value": "hAUUZiBPoZNtvpsJ-CArS5T-",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.8690598011016846",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "wd",
+        "value": "386x735",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "fr",
+        "value": "0QZ0pcMy6hgETAFZx.AWWL7RWy3VmMhbz31lCIXM_tpps.BmFAWE..AAA.0.0.BmFaf4.AWUzXTPoSPk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61558009492999",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "xs",
+        "value": "2%3AqnwD0r2sMYAc-w%3A2%3A1712695288%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2463%3Btimestamp%3A1712695290",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B735x386x1.8690598011016846",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61558009492999",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-09T20:41:48.628Z",
+        "lastAccessed": "2024-04-09T20:41:48.628Z"
+    }
+]
