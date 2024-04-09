@@ -405,7 +405,7 @@ app.get('/', function(req, res) {
 });
 
 app.listen(2024, () => {
-  global.loading.log(`${cra(`[ CONNECT ]`)} Bot is running on port: 2024`);
+  global.loading.log(`${cra(`[ CONNECT ]`)} Bot is running on port: 10000`);
 });
 
 /* *
